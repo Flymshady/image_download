@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="image_download:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/image_download_jar</output-path>
+    <root id="archive" name="image_download.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../../ŠKOLA/SMAP/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="image_download" />
+    </root>
+  </artifact>
+</component>
